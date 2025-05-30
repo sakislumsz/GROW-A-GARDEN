@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.com/sakislumsz/GROW-A-GARDEN/blob/main/GROW%20A%20GARDEN"))()
